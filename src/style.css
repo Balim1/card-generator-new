@@ -1,1 +1,19 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: green;
+}
+.card {
+  height: 450px;
+  width: 300px;
+  margin: auto;
+  background: white;
+  margin-top: 80px;
+}
+.number {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.symbol2 {
+  margin-left: auto;
+}
